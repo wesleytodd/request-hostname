@@ -1,6 +1,6 @@
 {
   "name": "request-hostname",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get a proper hostname off of a request object",
   "main": "index.js",
   "scripts": {
